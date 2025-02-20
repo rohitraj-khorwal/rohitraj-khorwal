@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<div align="start">
-  
-![pv](https://pageview.vercel.app/?github_user=rohitraj-khorwal)
+I am an Android developer specializing in Java and Kotlin. I design and build modern mobile applications with a focus on clean, efficient code and seamless user experiences.
 
-</div>
+
+Explore more projects on my secondary account: [PublicAccount](https://github.com/AndroidWithRossyn)
